@@ -1,0 +1,18 @@
+{
+  "workDirId": "mtfzw917u3qcls",
+  "githubAccount": "ap305",
+  "displayName": "测试",
+  "scenario": "patch_attack",
+  "role": "solo_attack",
+  "userId": "",
+  "originalZipName": "å¯¹æè´´çæ ·ä¾å·¥ç¨.zip",
+  "archivedZip": true,
+  "uploadedAt": "2026-08-30T15:59:43.732Z",
+  "files": [
+    "README.md",
+    "requirements.txt",
+    "solution.py",
+    "å¯¹æè´´çæ ·ä¾å·¥ç¨.zip"
+  ],
+  "skippedLargeFiles": []
+}
